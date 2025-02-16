@@ -4,6 +4,8 @@
 
 ![Screenshot 2025-02-16 224525](https://github.com/user-attachments/assets/07fde8de-faf6-463f-b106-4c6a533d4153)
 
+## Demo
+You can check out the live demo here: [**The Wild Oasis Demo**](https://the-wild-oasis-blond-chi.vercel.app/)
 
 ## Features
 - **User Authentication**: Sign up, login, logout, update profile
@@ -13,9 +15,6 @@
 
 ## Tech Stack
 React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode
-
-## Demo
-You can check out the live demo here: [**The Wild Oasis Demo**](https://the-wild-oasis-blond-chi.vercel.app/)
 
 ## Getting Started
 
