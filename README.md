@@ -1,5 +1,4 @@
 # The Wild Oasis
-
 **The Wild Oasis** is a client-side interactive web application designed to manage hotel bookings and cabins for the workers. Built with modern web technologies, it is hosted on Vercel, offering a seamless experience for users.
 
 ![Screenshot 2025-02-16 224525](https://github.com/user-attachments/assets/07fde8de-faf6-463f-b106-4c6a533d4153)
@@ -17,11 +16,9 @@ You can check out the live demo here: [**The Wild Oasis Demo**](https://the-wild
 React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode
 
 ## Getting Started
-
 To get started locally with **The Wild Oasis**:
 
 ### Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/the-wild-oasis.git
