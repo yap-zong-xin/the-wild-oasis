@@ -4,7 +4,7 @@
 ![Screenshot 2025-02-16 224525](https://github.com/user-attachments/assets/07fde8de-faf6-463f-b106-4c6a533d4153)
 
 ## Demo
-You can check out the live demo here: [**The Wild Oasis Demo**](https://the-wild-oasis-blond-chi.vercel.app/)
+You can check out the live demo here: <a href="https://the-wild-oasis-blond-chi.vercel.app/" alt="Demo link" target="_blank">**The Wild Oasis Demo**</a>
 
 ## Features
 - **User Authentication**: Sign up, login, logout, update profile
